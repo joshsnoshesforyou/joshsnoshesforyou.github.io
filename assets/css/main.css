@@ -2936,6 +2936,13 @@ input, select, textarea {
 		#bella h1, #bella h2, #bella h3, #bella h4, #bella h5, #bella h6, #bella strong, #bella b {
 			color: #ffffff;
 		}
+		#bella a {
+			border-bottom-color: rgba(255, 255, 255, 0.5);
+		}
+
+		#bella a:hover {
+			color: #ffffff;
+		}
 /* Header */
 
 	#header {
