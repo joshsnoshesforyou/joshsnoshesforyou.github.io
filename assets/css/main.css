@@ -2918,6 +2918,24 @@ input, select, textarea {
 				color: #ffffff;
 			}
 
+/* Bella */
+
+	#bella {
+		padding: 3em 0 3em 0 ;
+		background-color: #4686a0;
+		color: rgba(255, 255, 255, 0.75);
+		background-attachment: fixed,							fixed,							fixed;
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
+		background-position: top left,						center center,					center center;
+		background-size: auto,							cover,							cover;
+		overflow: hidden;
+		position: relative;
+		text-align: center;
+		color: #ffffff;
+	}
+		#bella h1, #bella h2, #bella h3, #bella h4, #bella h5, #bella h6, #bella strong, #bella b {
+			color: #ffffff;
+		}
 /* Header */
 
 	#header {
